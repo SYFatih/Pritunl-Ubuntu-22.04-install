@@ -18,7 +18,7 @@ otomatik kurulum scripti.
 ## 🚀 Kurulum
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/pritunl-ubuntu22-installer.git
+git clone https://github.com/SYFatih/pritunl-ubuntu22-installer.git
 cd pritunl-ubuntu22-installer
 chmod +x install.sh
 sudo ./install.sh
